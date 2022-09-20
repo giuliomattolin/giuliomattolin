@@ -19,6 +19,6 @@
 <br/>
 
 ### About me:
-- I’m pursuing a Master's degree in **Data Science** at the University of Trento 🎓
-- I'm passionate about **Machine Learning**, **Software Engineering** and **Statistics** 📚
+- I’m pursuing a Master's degree in Data Science at the University of Trento 🎓
+- I'm passionate about Machine Learning, Software Engineering and Statistics 📚
 - I'm currently working as Machine Learning Engineer Intern at ABB 💻
