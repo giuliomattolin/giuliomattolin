@@ -19,6 +19,6 @@
 <br/>
 
 ### About me:
-- Currently working as R&D Engineer at ABB
+- Currently working as Data Scientist at ABB
 - Passionate about AI and software engineering
-- M.S. in Data Science at the University of Trento
+- M.S. in Data Science at University of Trento
