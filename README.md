@@ -12,13 +12,9 @@
   <img align="left" alt="Giulio Mattolin StackOverflow" width="22px" src="https://cdn0.iconfinder.com/data/icons/social-rounded/72/stackoverflow-512.png" />
 </a>
 
-<a href="https://instagram.com/giulio_mattolin/">
-  <img align="left" alt="Giulio Mattolin Instagram" width="22px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-512.png" />
-</a>
-
 <br/>
 
 ### About me:
-- Currently working as Data Scientist at ABB
-- Passionate about AI and software engineering
-- M.S. in Data Science at University of Trento
+- Currently working as R&D Engineer at ABB
+- Passionate about leveraging data to derive insights and create solutions
+- M.Sc. in Data Science at University of Trento
