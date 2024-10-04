@@ -16,5 +16,5 @@
 
 ### About me:
 - Currently working as R&D Engineer at ABB
-- Passionate about leveraging data to derive insights and create solutions
+- Passionate about leveraging data to derive insights and create data-driven solutions
 - M.Sc. in Data Science at University of Trento
